@@ -1,0 +1,60 @@
+.brawn
+{
+    
+    color: coral;
+}
+.link-button{
+    background-image: linear-gradient(orange,red);
+    background-color: aqua;
+    padding: 10PX 40PX;
+    border-radius: 10px;
+    font-weight: 800;
+}
+.pic
+{
+    width:70%
+
+
+}
+.fle
+{
+  
+    display: flex;
+   
+    margin: 020px;
+    justify-content: space-around;
+    
+}
+.tuk
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ro{
+    
+    
+        color: darkgoldenrod;
+      
+}
+.hm{
+    text-align: center;
+    font-size: 24px;
+
+}
+.dom
+{
+    
+        width: 20%;
+        margin-right: 5%;
+        padding-left: 5%;
+        padding: 20px;
+        border-radius: 20px;
+        box-shadow: 10px 10px 40px yellowgreen;
+    
+}
+footer p{
+    text-align: center;
+    border: darkgray;
+    background-color: darkseagreen;
+    text-indent: 0%;
+    
+}
